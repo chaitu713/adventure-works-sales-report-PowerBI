@@ -7,7 +7,7 @@ performance, analyze product-level trends and forecasts, and identify high-value
 returns, products, customers and territories.
 
   Here we used Power BI Desktop to:
-  • Connect and transform the raw data
-  • Build a relational data model
-  • Create new calculated columns and DAX measures, and finally
-  • Design an interactive report to analyze and visualize the data.
+    • Connect and transform the raw data
+    • Build a relational data model
+    • Create new calculated columns and DAX measures, and finally
+    • Design an interactive report to analyze and visualize the data.
