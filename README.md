@@ -1,4 +1,4 @@
-Adventure Works Sales Report using Power BIAdventure Works Sales Report using Power BI
+Adventure Works Sales Report using Power BI
 
   Adventure Works Cycles, a global manufacturing company wants us to design a end-to-end business solution from scratch including tracking of KPIs (sales, revenue, profit, returns), compare regional
 performance, analyze product-level trends and forecasts, and identify high-value customers.
